@@ -1,0 +1,42 @@
+
+img{
+    margin-left: 250px;
+    margin-top: -600px;
+    width:  690px;
+    height: 972px;
+   
+}
+
+.center{
+   margin-left: 970px;
+}
+
+
+input{
+    width: 450px;
+    height: 25px;
+   padding: 18 px 50px 10px 5px;
+  
+}
+
+button {
+    width: 460px;
+  
+    padding: 14px 0px ;
+    background-color: #35e; 
+    color: #fff; 
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px; 
+    cursor: pointer;
+    text-align: center;
+  
+  }
+
+  h1{
+    color: #35e;
+    margin-left: 40px;
+  }
+
+ 
